@@ -1,0 +1,50 @@
+<annotation>
+	<folder>odometer_model_jkotak2x1</folder>
+	<filename>ditengah mal 1.jpg</filename>
+	<path>D:\!WORK\4. SMART\Work ~\1\Load Volume\odometer_model_jkotak2x1\ditengah mal 1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3674</width>
+		<height>2070</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kotak_2x1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1770</xmin>
+			<ymin>1165</ymin>
+			<xmax>2090</xmax>
+			<ymax>1302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kotak_2x1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1772</xmin>
+			<ymin>1450</ymin>
+			<xmax>2085</xmax>
+			<ymax>1595</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kotak_2x1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1775</xmin>
+			<ymin>1747</ymin>
+			<xmax>2082</xmax>
+			<ymax>1902</ymax>
+		</bndbox>
+	</object>
+</annotation>

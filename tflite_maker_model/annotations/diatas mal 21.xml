@@ -1,0 +1,50 @@
+<annotation>
+	<folder>odometer_model_jkotak2x1</folder>
+	<filename>diatas mal 21.jpg</filename>
+	<path>D:\!WORK\4. SMART\Work ~\1\Load Volume\odometer_model_jkotak2x1\diatas mal 21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4624</width>
+		<height>2604</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kotak_2x1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2222</xmin>
+			<ymin>1483</ymin>
+			<xmax>2490</xmax>
+			<ymax>1601</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kotak_2x1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2214</xmin>
+			<ymin>1713</ymin>
+			<xmax>2476</xmax>
+			<ymax>1850</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kotak_2x1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2201</xmin>
+			<ymin>1965</ymin>
+			<xmax>2462</xmax>
+			<ymax>2099</ymax>
+		</bndbox>
+	</object>
+</annotation>
